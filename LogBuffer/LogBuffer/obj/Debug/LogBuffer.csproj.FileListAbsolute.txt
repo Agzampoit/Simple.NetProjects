@@ -1,0 +1,7 @@
+C:\Users\Kostya\source\repos\LogBuffer\LogBuffer\bin\Debug\LogBuffer.exe.config
+C:\Users\Kostya\source\repos\LogBuffer\LogBuffer\bin\Debug\LogBuffer.exe
+C:\Users\Kostya\source\repos\LogBuffer\LogBuffer\bin\Debug\LogBuffer.pdb
+C:\Users\Kostya\source\repos\LogBuffer\LogBuffer\obj\Debug\LogBuffer.csprojAssemblyReference.cache
+C:\Users\Kostya\source\repos\LogBuffer\LogBuffer\obj\Debug\LogBuffer.csproj.CoreCompileInputs.cache
+C:\Users\Kostya\source\repos\LogBuffer\LogBuffer\obj\Debug\LogBuffer.exe
+C:\Users\Kostya\source\repos\LogBuffer\LogBuffer\obj\Debug\LogBuffer.pdb
